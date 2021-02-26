@@ -5,7 +5,7 @@ document.getElementById('button').addEventListener('click', area)
 function area () {
   input = document.getElementById('input').value
 
-  input = parseInt(d)
+  input = parseInt(input)
 
   r = input / 2
 
